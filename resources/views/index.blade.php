@@ -90,20 +90,3 @@
   </script>
 
 @endsection
-
-
-<?php
-	// require_once("includes/footer.php");
-
-	// if(isset($_POST['get_started'])){
-	// 	$_SESSION['company_name']=$_POST['company_name'];
-	// 	$_SESSION['email']=$_POST['email'];
-
-
-	// }
-
-	// if(isset($_POST['login'])){
-	// 	$select->check_login($_POST);
-	// }
-?>
-
